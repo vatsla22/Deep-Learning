@@ -1,6 +1,6 @@
 # Deep-Learning
 
-Stock market analysis and their effects using Deep Learning Models
+## Stock market analysis and their effects using Deep Learning Models
 
 # Description of problem:
 Stock market has received widespread attention from investors. It has always been a hot spot for investors and investment companies to grasp the change regularity of the stock market and predict its trend. The percentage of investment has increased rapidly over the last century. The performance of stock market not only affects individual investors but also individual businesses who have stakes in big companies and trade in these big companies stocks on day to day basis. The rise and fall of stock prices of big companies impact the businesses of the partners who have invested in their stocks. For small businesses, the trend forecast of the stock market is directly related to the acquisition of profits that helps them in expanding their business. Therefore, the research on the intrinsic value and prediction of the stock market is of great significance which allows the businesses to explore prospects to grow.
